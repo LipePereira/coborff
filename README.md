@@ -14,7 +14,10 @@ Download it to your computer, Clone it into a git repo, Voodoo it on a wooden do
 Once you get the files, simply unzip ip if necessary and start working like you would normally do on any CI project.
 
 ### Setting up
+Most of the work is done, however you still need to configure some stuff:
 
+* Configure yout Facebook api in 'application/config/facebook.php'
+* Configure yout Rest Server in 'application/config/rest.php'
 
 ## CodeIgniter
 You probably know how to use this one, go to the Application folder and do your thang.
