@@ -1,0 +1,248 @@
+# Webalizer V2.23-08 Incremental Data - 04/10/2015 03:41:28
+2015 4 10 3 41 28
+201 77 15 25 7 8 3174203 80 17 0 0 0
+3 2 127 7 10
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+18 0 10652 4 15 4 0 0
+135 68 3085043 5 38 5 0 0
+45 9 76523 6 24 5 0 0
+3 0 1985 3 3 3 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0
+2 0 1186 2 0 0
+0 0 0 0 0 0
+2 0 1392 2 0 0
+1 0 1443 1 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+41 9 73121 21 0 0
+1 0 1483 1 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+8 0 4126 6 0 0
+12 0 8186 11 0 0
+2 0 2113 1 0 0
+128 68 3077434 33 0 0
+4 0 3719 2 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0
+0
+0
+77
+0
+0
+0
+0
+0
+0
+0
+0
+5
+0
+47
+0
+0
+0
+0
+0
+8
+16
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+48
+0
+0
+0
+0
+0
+# -urls- 
+/party/testgeolocation
+0 1 0 1520 0 0 0 0
+/assets/favicons/favicon-16x16.png
+1 2 0 1525 0 0 0 0
+/party/getLocationByIp
+0 1 0 434 0 0 0 0
+/assets/fonts/glyphicons-halflings-regular.woff
+0 3 0 70749 0 0 0 0
+/assets/css/bootstrap.min.css
+0 7 0 120704 0 0 0 0
+/assets/js/custom.js
+0 8 0 9366 0 0 0 0
+/assets/css/bootstrap-social.css
+0 8 0 23561 0 0 0 0
+/assets/img/Logo.png
+1 8 0 109954 0 0 0 0
+/assets/img/Step3.png
+1 7 0 62645 0 0 0 0
+/assets/img/logo-mobile.png
+1 8 0 78047 0 0 0 0
+/assets/favicons/favicon-96x96.png
+1 2 0 6340 0 0 0 0
+/assets/favicons/favicon-160x160.png
+1 2 0 10601 0 0 0 0
+/assets/img/next-step.png
+1 8 0 89195 0 0 0 0
+/profile
+0 1 0 1264 0 0 0 0
+/assets/favicons/favicon-192x192.png
+1 2 0 12570 0 0 0 0
+/assets/img/Logo-bg-opaco.png
+1 7 0 284360 0 0 0 0
+/frontpage
+0 7 0 21843 0 0 0 0
+/assets/js/geoPosition.js
+0 2 0 6474 0 0 0 0
+/
+0 1 0 3891 5 1 0 0
+/assets/js/bootstrap.min.js
+0 8 0 61206 0 0 0 0
+/assets/favicons/favicon-32x32.png
+1 2 0 2292 0 0 0 0
+/assets/css/custom.css
+0 7 0 11248 0 0 0 0
+/assets/img/header-bg.jpg
+1 7 0 1137879 0 0 0 0
+/assets/img/Step1.png
+1 8 0 876477 0 0 0 0
+/assets/img/Step2.png
+1 7 0 118572 0 0 0 0
+# End Of Table - urls
+# -sites- (monthly)
+54.186.208.190
+0 1 0 1443 1 1428467761 0 0
+-
+198.186.192.44
+0 2 0 1186 2 1428630863 0 0
+/
+66.249.64.178
+0 2 0 1392 2 1428637288 0 0
+/
+200.235.68.22
+0 4 0 3719 1 1428528436 0 0
+-
+189.32.81.105
+0 3 0 3345 1 1428430069 0 0
+-
+66.249.81.217
+0 1 0 1483 1 1428491443 0 0
+-
+177.136.194.223
+0 1 0 389 1 1428429790 0 0
+-
+136.243.18.103
+0 1 0 690 1 1428574643 0 0
+-
+200.235.65.30
+0 127 68 3076738 1 1428526458 0 0
+/party/getLocationByIp
+177.94.135.22
+0 2 0 890 1 1428430015 0 0
+-
+66.249.64.174
+0 1 0 696 1 1428610301 0 0
+/
+192.99.40.137
+0 2 0 1660 1 1428512400 0 0
+-
+200.235.68.84
+0 40 9 72431 1 1428576900 0 0
+/
+189.38.3.42
+0 12 0 6028 1 1428429729 0 0
+-
+66.249.64.182
+0 2 0 2113 1 1428635107 0 0
+/
+# End Of Table - sites (monthly)
+# -sites- (daily)
+198.186.192.44
+0 1 0 593 1 1428630863 0 0
+/
+66.249.64.178
+0 1 0 696 1 1428637288 0 0
+/
+66.249.64.182
+0 1 0 696 1 1428635107 0 0
+/
+# End Of Table - sites (daily)
+# -referrers- 
+http://hoozup.us/
+0 13
+http://www.domaintuno.com/d/hoozup.us
+0 2
+http://hoozup.us/party/testgeolocation
+0 1
+- (Direct Request)
+0 96
+http://hoozup.us/assets/css/custom.css
+0 7
+http://hoozup.us/frontpage
+0 79
+http://hoozup.us/assets/css/bootstrap.min.css
+0 3
+# End Of Table - referrers
+# -agents- 
+Mozilla/5.0 (Windows NT 6.1; rv:6.0) Gecko/20110814 Firefox/6.0 Google favicon
+0 1
+Mozilla/5.0 (compatible; AdvBot/2.0; +http://advbot.org/bot.html)
+0 1
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.118 Safari/537.36
+0 3
+Mozilla/5.0 (compatible; DomainTunoCrawler/0.1; +http://www.domaintuno.com/robot)
+0 2
+Mozilla/5.0 (Windows NT 6.3; WOW64; rv:36.0) Gecko/20100101 Firefox/36.0
+0 183
+Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+0 5
+Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.118 Safari/537.36
+0 3
+CatchBot/2.0; +http://www.catchbot.com
+0 1
+# End Of Table - agents
+# -search strings- 
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames
