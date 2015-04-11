@@ -16,7 +16,7 @@ Once you get the files, simply unzip ip if necessary and start working like you 
 ### Setting up
 Most of the work is done, however you still need to configure some stuff:
 
-* Install the Facebook dependencies, I recommend using [Composer](https://getcomposer.org/doc/00-intro.md#locally)
+* You can reinstall the Facebook dependencies, I recommend using [Composer](https://getcomposer.org/doc/00-intro.md#locally) for that. I have included a version with it already installed, but that are many reasons you should install Composer and use it to install get any dependencies.
 * Configure yout Facebook api in 'application/config/facebook.php'
 * Configure yout Rest Server in 'application/config/rest.php'
 

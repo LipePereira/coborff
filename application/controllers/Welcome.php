@@ -21,6 +21,9 @@ class Welcome extends CI_Controller {
 	public function index()
 	{
             $this->load->view('coborff/start');
+            
+            $this->facebook->
+            
             $this->load->view('welcome_message');
             $this->load->view('coborff/end');
 	}
