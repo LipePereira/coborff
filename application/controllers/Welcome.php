@@ -21,7 +21,10 @@ class Welcome extends CI_Controller {
 	public function index()
 	{
             $this->load->view('coborff/start');
-            $this->load->view('welcome_message');
+            
+            $data["login_url"] = $this->facebook->login_url();
+            
+            $this->load->view('welcome_message', $data);
             $this->load->view('coborff/end');
 	}
 }
