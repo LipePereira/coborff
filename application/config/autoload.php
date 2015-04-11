@@ -60,7 +60,7 @@ $autoload['packages'] = array();
 |	$autoload['libraries'] = array('user_agent' => 'ua');
 */
 
-$autoload['libraries'] = array('facebook/Facebook', 'session');
+$autoload['libraries'] = array('facebook/facebook', 'session');
 
 
 /*
