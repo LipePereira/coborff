@@ -17,5 +17,5 @@ defined('BASEPATH') OR exit('No direct script access allowed');
         <p><a href="<?= $login_url; ?>">Login with Facebook</a></p>
     <?php } ?>
 
-        <p>Put together by <a href="lipepereira.com">LipePereira</a>, available for free on <a href="https://github.com/LipePereira/coborff">Github</a></p>
+        <p>Put together by <a href="http://lipepereira.com">LipePereira</a>, available for free on <a href="https://github.com/LipePereira/coborff">Github</a></p>
 </div>
