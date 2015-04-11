@@ -1,19 +1,20 @@
 # Project COBORFF
 A way to quickly fire up yout web development!
+Disclaimer: Disregard some of my commit messages, they were meant for quick testing :p
 
 ## What the hell is a COBORFF?
 
 It's a combination of many of my personal favorite web development tools in one!
 
-*CO* - CodeIgniter : The *Best* PHP Frameword ever
+**CO** - CodeIgniter : The *Best* PHP Frameword ever
 
-*BO* - Bootstrap : The *Best* Front end Framework ever
+**BO** - Bootstrap : The *Best* Front end Framework ever
 
-*R* - Rest Controller : For all your API Needs.
+**R** - Rest Controller : For all your API Needs.
 
-*F* - Font Awesome : Screw images, we use FA!
+**F** - Font Awesome : Screw images, we use FA!
 
-*F* - Facebook : You know what this one is. SDK 4 BTW!
+**F** - Facebook : You know what this one is. SDK 4 BTW!
 
 ## Getting started
 
@@ -26,9 +27,9 @@ Once you get the files, simply unzip ip if necessary and start working like you 
 Most of the work is done, however you still need to configure some stuff:
 
 * You can reinstall the Facebook dependencies, I recommend using [Composer](https://getcomposer.org/doc/00-intro.md#locally) for that. I have included a version with it already installed, but that are many reasons you should install Composer and use it to install get any dependencies.
-* Configure your Facebook api in 'application/config/facebook.php'
-* Configure your Rest Server in 'application/config/rest.php'
-* Configure your Encryption Key in 'application/config/config.php'
+* Configure your Facebook api in `application/config/facebook.php`
+* Configure your Rest Server in `application/config/rest.php`
+* Configure your Encryption Key in `application/config/config.php`
 
 Besides all that, all needed libraries and configs are Autoloaded through CI. Change that if you want.
 
