@@ -20,6 +20,7 @@ class Facebook {
 
   public function __construct() {
     $this->ci =& get_instance();
+    $this->ci->load->library("session");
     $this->permissions = $this->ci->config->item('permissions', 'facebook');
 
     // Initialize the SDK
